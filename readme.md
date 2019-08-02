@@ -1,3 +1,11 @@
+Após clonar o repositório execute os seguintes passos:
+1. rode o composer install
+2. rode o comando php artisan storage:link
+3. crie um banco de dados e configure as credenciais no laravel
+4. rode o comando php artisan:migrate
+
+Qualquer dúvida, por favor entre em contato pelo email adrianogaspar@gmail.com
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
